@@ -1,1 +1,4 @@
 git init=>initializing git
+git add -A=>add files to staging area
+git commit -m "first comment"=>converted to local repositry
+git status=>listing all untracked files
